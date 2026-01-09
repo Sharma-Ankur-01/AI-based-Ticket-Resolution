@@ -1,4 +1,4 @@
 import streamlit as st
-from Final_Project import frontend
+from Frontend import frontend
 
 frontend()
